@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true ansvver of the Parliament to the petition of the Lord Major, and Common-Councell, for removing the army, securing the tower, putting the city into a posture of defence, and to have major generall Skippon commander in chiefe. Also, the oath and information of Mr. Iohn Everet, discovering to the lord major and common-councell, the intents of the army against the city of London. Likevvise, a letter from Norwich of the manner of blowing up of the magazine there, the killing of above 100. persons and other sad accidents, which happened at the same time. April 27. 1648. Imprimatur Gilb. Mabbot.</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83524</idno>
+            <idno type="STC">Wing E2378</idno>
+            <idno type="STC">Thomason E437_12</idno>
+            <idno type="STC">ESTC R204702</idno>
+            <idno type="EEBO-CITATION">99864167</idno>
+            <idno type="PROQUEST">99864167</idno>
+            <idno type="VID">161634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161634)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true ansvver of the Parliament to the petition of the Lord Major, and Common-Councell, for removing the army, securing the tower, putting the city into a posture of defence, and to have major generall Skippon commander in chiefe. Also, the oath and information of Mr. Iohn Everet, discovering to the lord major and common-councell, the intents of the army against the city of London. Likevvise, a letter from Norwich of the manner of blowing up of the magazine there, the killing of above 100. persons and other sad accidents, which happened at the same time. April 27. 1648. Imprimatur Gilb. Mabbot.</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+                  <author>T. S.</author>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII.[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Lords' reply acknolwedges receiving the Common-Council's petition the 27th of April.</note>
+                  <note>"A letter from Norwich" is dated and signed: Norwich 25. April 1648. T.S.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Norwich (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161634:1" rendition="simple:additions"/>
+            <p>THE TRUE ANSVVER OF THE PARLIAMENT TO The <hi>Petition</hi> of the <hi>Lord Major,</hi> and <hi>Common-Councell,</hi> for removing the Army, ſecuring the Tower, putting the City into a poſture of defence, and to have Major Generall <hi>Skippon</hi> Commander in chiefe.</p>
+            <p>
+               <hi>ALSO,</hi> The Oath and Information of Mr. <hi>Iohn Everet,</hi> Diſcovering to the Lord Major and Common-councell, the intents of the Army againſt the City of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>LIKEVVISE,</hi> A Letter from <hi>Norwich</hi> of the manner of blowing up of the Magazine there, the killing of above 100. perſons and other ſad accidents, which happened at the ſame time.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>April 27. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gilb. Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for R. W. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161634:2"/>
+            <pb n="1" facs="tcp:161634:2"/>
+            <head>A LETTER FROM NORWICH.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am ſorry that this opportunity ſhould meet with the occaſion of ſending you ill newes from hence: for, on Munday laſt, here fell out a very ſad accident; the manner thereof, and the occaſion was briefly thus. I believe that you have heard that this town, as well as other places, was much divided, ſome againſt the Parliament and Army, and
+<pb n="2" facs="tcp:161634:3"/>others for them, which cauſed a difference betwixt not only the meaner ſort of people, but even amongſt thoſe which were in chiefeſt place in the City, and the diſaf<g ref="char:EOLhyphen"/>fected party did ſo increaſe, that the reſt were often<g ref="char:EOLhyphen"/>times openly ſcorned and divided by them: the Major acting in ſome things otherwiſe then was expected was ſent for vp to the Parliament, which the malignant party were exceedingly vexed at, and ſaid he ſhould not be ſubject to that command, nor be carryed out of the city: the well-affected laboured to have the Parl orders obey<g ref="char:EOLhyphen"/>ed and here the buſineſse began to grow high, and came to an open quarrell, many hundreds of people being ga<g ref="char:EOLhyphen"/>thered together, and the malignant party thinking to ex<g ref="char:EOLhyphen"/>punge the rest, and poſſeſſe themſelves of all the armes and ammunition in the city, they ran with one accord, to the Magazine, which was furniſhed with a great quantity of powder and ammunition. Here they began to arm themſelves, and threatned ruine to all that bad or durſt oppoſe them; but before they became formidable, the Magazeen (amongſt them) was fired, and at leaſt <hi>40</hi> houſes was blown vp and ſpoyled by powder, the blow whereof did ſhake the whole City, threw downe part of ſome churches, wounded and killed a great many of the Inhabitants, the certain number not being yet known, nor many of them that were killed, as yet found, or can bee known, for many were torn in pieces, and carryed limbe
+<pb n="3" facs="tcp:161634:3"/>from limbe, ſeveral legs, arms, &amp;c. being found in the ſtreets, but we already find miſſing &amp; mortally wound<g ref="char:EOLhyphen"/>ed at least <hi>120.</hi> perſons; beſides as many more which received ſlight wounds &amp; hurts. <hi>Yet was not this great miſchiefe a ſufficient terrour to thoſe that eſcaped, and had gotten armes, for they continued and perſiſted in their courſe, and would quit the City of all that joyned not with them, and take their goods for a prey: ſo that this combuſtion and diſtraction laſted divers hours, till 3. Troopes of Col.</hi> Fleetwoods <hi>horſe, which were ſent for, came into the City, and appeaſed the matter, and ſecured ſome of the chief Matiniers: ſo that we hope all things will be now quiet. And</hi> I <hi>wiſh, that accor<g ref="char:EOLhyphen"/>ding to the Proverb, others may be warned by our harms, and that when there is no enemy abroad, we may not find him at home, and by private diſ<g ref="char:EOLhyphen"/>ſentions, bring inevitable ruine and diſtractions upon our ſelves; which is all for the preſent, hee hath to write, that is</hi>
+            </p>
+            <closer>
+               <signed>Your humble ſervant, <hi>T. S.</hi>
+               </signed>
+               <dateline>Norwich <date>25. April 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161634:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Jovis 27. April. 1648.</date>
+               </dateline>
+            </opener>
+            <p>REport was made of the tranſaction of the late buſineſs in the City of <hi>London,</hi> in relation to the information lately given, that the Army had ſome intentions againſt the City, which was grounded on a ſingle affidavit made by one Mr. <hi>Everet,</hi> an Excize-man for the County of <hi>Bedford,</hi> of e<g ref="char:EOLhyphen"/>ſtate 220. <hi>li. per annum.</hi> This man went to the Head-quar<g ref="char:EOLhyphen"/>ters at <hi>Winſor,</hi> to get aſſiſtance for gathering the Excize at <hi>Bedford,</hi> &amp; taking his Lodging at an Inne, he over-heard ſome in another roome to ſay to others of their acquaintance with them, that they had acquainted an eminent Comman<g ref="char:EOLhyphen"/>der with what they had to propoſe, &amp; that he ſeemed to ap<g ref="char:EOLhyphen"/>prove wel of the deſign, which hee ſaid he heard them ex<g ref="char:EOLhyphen"/>plain to be the ſecuring of the city, diſarming of diſaffected perſons, the demanding of a million of money, &amp;c. But that any ſuch thing was the ſenſe of the Army, or had bin deba<g ref="char:EOLhyphen"/>ted by a Councel, as ſome have reported, is utterly falſe; However, M. <hi>Everet</hi> thought himſelf bound in duty to diſ<g ref="char:EOLhyphen"/>cover to the city what he had heard, and thereupon came and acquainted the Lord Major, who cauſed him to finde ſufficient ſureties, &amp; then took his examination upon oath, the effect whereof I have already ſet downe. Hereupon a Common-councel was called on Munday night laſt, where the ſaid Mr. <hi>Everet</hi> appeared, and affirmed what hee had be<g ref="char:EOLhyphen"/>fore declared to the Lord Major. And after a long ſitting of the Common-councel, they came to this reſult, That ſome particulars ſhould be drawn up, and preſented to the Parl. in relation to the peace and ſafety of the city, and the two Sheriffs Alderman <hi>Gibs,</hi> Alderman <hi>Fouk,</hi> and 8 <hi>Commoners</hi> were appointed, as a <hi>Committee</hi> to draw up the ſame, <hi>Tueſday</hi> night was another <hi>Common-councell</hi> at Guild-Hal about this buſines, where they concluded, and made an Act in theſe words.</p>
+            <q>
+               <pb facs="tcp:161634:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>BY THE MAJOR.</head>
+                        <p>FOraſmuch, as it is conceived and apprehended by the Common-councell, that the City at the preſent is in great danger; Theſe are therefore, according to the Deſire and Direction of the ſaid Court to will and require you in his Majeſties Name, That preſently vpon ſight hereof, you reſpectively, with the Conſtables of your ſeveral Precincts, do repair to every Houſholder within the ſame, and give them ſtrict charge and command, that at their perils, they doe ſo order and diſpoſe of their Servants, and all others vnder their charge, that they be not only kept from committing any outrage or miſdemeanour; But that they and their ſer<g ref="char:EOLhyphen"/>vants from time to time be in readineſſe, according to their ſeverall capacities, with Armes, Weapons, and Ammunitions for preſervation of the Peace, defence of themſelves, the City, and the Magiſtrates thereof: And alſo, that all Perſons who are of the Trained Bands of this City, Do from time to time upon the beat of the Drum, repair with all ſpeed to their Colours: And therein demeaſn themſelves as may conduce to the ſafe<g ref="char:EOLhyphen"/>ty and welfare of this City.</p>
+                        <p>And that you do from time to time certifie vnto me, or ſome other of his Majeſties Iuſtices of the Peace, the Names of ſuch <hi>Conſtables,</hi> and others, as you ſhall finde to be remiſſe or negligent in the performance of their re<g ref="char:EOLhyphen"/>ſpective Duties in this behalfe, to the intent, that they may be puniſhed according to the ſame. And hereof faile you not, as you tender the ſafety of your ſelves and the <hi>City,</hi> and will anſwer the contrary at your perill.</p>
+                        <closer>
+                           <dateline>
+                              <date>This 25. of <hi>April,</hi> 1648.</date>
+                           </dateline> 
+                           <signed>MICHEL.</signed>
+                        </closer>
+                        <trailer>To the Deputy, Common-Councell-men, and Conſtables in the Ward of <gap reason="blank" extent="1 span">
+                              <desc>〈1 span left blank〉</desc>
+                           </gap>
+                        </trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="6" facs="tcp:161634:5"/>
+            <p> The 27. of this inſtant, divers. Aldermen and Common-councel men of the city of <hi>London,</hi> preſented a Petition to both Houſes of Parl. ſetting forth the good affection of the city to the Parl. and that they will venter their lives &amp; for<g ref="char:EOLhyphen"/>tune, for the preſervation thereof, according to their Cove<g ref="char:EOLhyphen"/>nant, deſiring that the city might be put into a poſture of defence, the Tower in their hands, the Army removed fur<g ref="char:EOLhyphen"/>ther, their chains put up, and Maj. Gen. <hi>Skippon</hi> Commander in chief of their Forces, that they might not be diſarmed, plundered, &amp;c.</p>
+            <p>To which Petition, the E. of <hi>Mancheſter</hi> returned the an<g ref="char:EOLhyphen"/>ſwer of the Lords, which was to this effect.</p>
+            <p n="1">1. I am commanded to let you know, that the Lords doe return hearty thanks to the Lord Major of <hi>London,</hi> Alder<g ref="char:EOLhyphen"/>men, and Common-councel, for expreſſing their good affe<g ref="char:EOLhyphen"/>ctions to the Parliament. 2. And that it never entred into the thoughts of the Parl. to diſarm the city, and know not that any others had any ſuch intent, and that the Parl. are and e<g ref="char:EOLhyphen"/>ver ſhall be very carefull for the good and ſafety of the ci<g ref="char:EOLhyphen"/>ty. 3. As for the information brought to the city by one Jo: <hi>Everet,</hi> the Houſe would take it into ſpecial examination to find out the truth or falſhood therof; in the mean time, they ſee not any cauſe why ſuch a ſlight information ſhould bee any blemiſh or ſcandall to the Army, which have approved themſelves in many things faithful. 4. As for that concern<g ref="char:EOLhyphen"/>ing Major General <hi>Skippon,</hi> he is a member of the Houſe of Commons, and ſo it did not belong to their Lordſhips to meddle therein before the Commons had debated that bu<g ref="char:EOLhyphen"/>ſineſſe. 5. And as for the putting up of the chaines for their own ſafety, they left it to their own diſcretion.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
